@@ -1,5 +1,5 @@
 
-var arr=["https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Image.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-Free-PNG-Image.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Pic.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Picture.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-Transparent.png"];
+var arr=["https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Image.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-Free-PNG-Image.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Pic.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect.png","https://www.pngall.com/wp-content/uploads/2018/04/Cricket-Insect-PNG-Picture.png"];
 const btn =document.querySelector("button");
 
 
